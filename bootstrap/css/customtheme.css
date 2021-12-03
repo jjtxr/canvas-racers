@@ -1,0 +1,85 @@
+.navbar-default .navbar-brand {
+  color: #F6F6F6;
+}
+.navbar-default {
+  background-color: #005A31;
+  border-color: #005A31;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #F6F6F6;
+  background-color: transparent;
+}
+.navbar-default .navbar-brand {
+  color: #F6F6F6;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #A8CD1B;
+  background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #A8CD1B;
+  background-color: transparent;
+}
+.navbar-default .navbar-text {
+  color: #F6F6F6;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #F6F6F6;
+}
+body {
+    background-color: #669c83;
+}
+body {
+  height: 100%;
+  margin: 0;
+}
+.canvas-container {
+  position: relative;
+  max-width: 1024px;
+  min-width: 320px;
+  margin: 0 auto;
+  vertical-align:middle;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: middle;
+}
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.about-header{
+  height: 400px;
+  background: url('about_placeholder.png') center center no-repeat scroll;
+  background-size: 1920px 400px;
+
+}
+.img-center {
+    margin: 0 auto;
+}
+.navbar-about {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+}
+.container-about {
+  padding-right: 35px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: middle;
+  color: #F6F6F6;
+}
